@@ -1,0 +1,156 @@
+[
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": "Upper voab",
+    "state": "newyork",
+    "when": "30",
+    "price": "3450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/house.jpg",
+    "neighborhood": "West ten",
+    "state": "chicago",
+    "when": "0",
+    "price": "1450",
+    "type": "house",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/condo.jpg",
+    "neighborhood": "mohailbim North",
+    "state": "boston",
+    "when": "30",
+    "price": "1450",
+    "type": "condo",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/apartment.jpeg",
+    "neighborhood": "West yittemeb Circle",
+    "state": "newhaven",
+    "when": "30",
+    "price": "2450",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": " Midtown twemink",
+    "state": "detroit",
+    "when": "30",
+    "price": "5450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": " foarolf Plaza",
+    "state": "milwaukee",
+    "when": "30",
+    "price": "3450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": " Lower East chimmeem",
+    "state": "washington",
+    "when": "30",
+    "price": "3150",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/apartment.jpeg",
+    "neighborhood": " voffig Yard",
+    "state": "washington",
+    "when": "30",
+    "price": "1999",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": "voffig Yard",
+    "state": "baltimore",
+    "when": "30",
+    "price": "2100",
+    "type": "townhouse",
+    "bed": "1",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": "    Downtown miffioc",
+    "state": "baltimore",
+    "when": "30",
+    "price": "1450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/townhouse.jpg",
+    "neighborhood": "    Downtown miffioc",
+    "state": "newyork",
+    "when": "30",
+    "price": "5450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/apartment.jpeg",
+    "neighborhood": " voffig Yard",
+    "state": "newyork",
+    "when": "0",
+    "price": "3450",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/house.jpg",
+    "neighborhood": "  Waterside deckilf",
+    "state": "newyork",
+    "when": "45",
+    "price": "4750",
+    "type": "house",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "/condo.jpg",
+    "neighborhood": "Lower East veessept",
+    "state": "newyork",
+    "when": "45",
+    "price": "5450",
+    "type": "condos",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  }
+]

@@ -1,0 +1,52 @@
+.header {
+  width: 100%;
+  height: 7vh;
+  display: flex;
+  align-items: center;
+  /* background-color: lightgray; */
+  border-bottom: 1px solid gray;
+}
+
+.logo {
+  padding: 1rem;
+  height: 80%;
+}
+
+.header-options {
+  display: flex;
+  width: 40%;
+  min-width: 200px;
+  justify-content: space-between;
+}
+
+.header-options > div {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.header-options > div:hover {
+  background-color: rgba(137, 43, 226, 0.5);
+  color: white;
+  cursor: pointer;
+}
+
+.header-login {
+  position: absolute;
+  right: 0;
+  display: flex;
+  width: 20%;
+  /* justify-self: end; */
+  justify-content: space-evenly;
+}
+
+.header-login > div {
+  border: 1px solid gray;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
+
+.header-login > div:hover {
+  background-color: rgba(137, 43, 226, 0.5);
+  color: white;
+  cursor: pointer;
+}

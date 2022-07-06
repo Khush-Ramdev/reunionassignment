@@ -1,0 +1,15 @@
+.list {
+  display: grid;
+  box-sizing: border-box;
+  grid-template-columns: repeat(3, minmax(150px, 1fr));
+  gap: 2rem;
+  width: 100%;
+  padding: 2% 5%;
+  margin: 1rem auto;
+  background-color: rgba(219, 219, 219, 0.5);
+}
+
+.noresult {
+  color: red;
+  font-size: 1.25rem;
+}
